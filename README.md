@@ -1,0 +1,2 @@
+# go_src_annotation_to_CN
+批量将golang源码文件注释翻译成中文，再也不用一行一行的粘贴复制了
